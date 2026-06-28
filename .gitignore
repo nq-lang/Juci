@@ -1,0 +1,9 @@
+.env
+*.so
+*.dylib
+*.dll
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/*.csv
+!data/.gitkeep
